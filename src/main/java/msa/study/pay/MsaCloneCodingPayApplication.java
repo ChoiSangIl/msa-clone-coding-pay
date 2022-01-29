@@ -1,4 +1,4 @@
-package msa.study;
+package msa.study.pay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
